@@ -52,11 +52,11 @@ task cucumber(){
         }
     }
 }
-task apiTest(type: Test) {
+task completeTest(type: Test) {
     description "Run API tests"
     group = "verification"
     testClassesDirs = sourceSets.test.output.classesDirs
     classpath = sourceSets.test.runtimeClasspath
 }
 
-tasks.test.dependsOn apiTest
+tasks.test.dependsOn completeTest
