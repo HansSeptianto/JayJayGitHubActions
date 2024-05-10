@@ -1,5 +1,5 @@
 @login
-Feature: Login
+Feature: Test Web UI (Login)
 
   @valid-login
   Scenario: Login using valid email and password

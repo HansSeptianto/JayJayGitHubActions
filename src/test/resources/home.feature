@@ -1,5 +1,5 @@
 @home
-Feature: Home
+Feature: Test Web UI (Home)
 
   @valid-menu
   Scenario: Check valid menu on homepage

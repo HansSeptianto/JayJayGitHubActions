@@ -1,6 +1,6 @@
 # JayJayGitHubActions
 
-- Pengujian otomatisasi API dan UI Web menggunakan Cucumber, Java, Gradle, Selenium, dan JUnit
-- Pengujian otomatisasi API dan UI Web dapat dijalankan dengan perintah berikut: "./gradlew test"
+- Pengujian otomatisasi API dan UI Web menggunakan Cucumber, Java, Gradle, Selenium, dan JUnit, serta konfigurasi GitHub Actions
+- Pengujian otomatisasi API dan UI Web dapat dijalankan dengan perintah berikut: "./gradlew cucumber"
 
-![img_1.png](img_1.png)
+![img.png](img.png)
